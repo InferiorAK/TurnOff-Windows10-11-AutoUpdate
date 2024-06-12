@@ -1,4 +1,5 @@
 # Turn Off Windows 10/11 Auto Update Permanently
+<img src="src/banner.jpg" align="center" alt="Banner">
 
 
 <p align="center">
