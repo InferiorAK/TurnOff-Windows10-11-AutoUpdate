@@ -78,3 +78,12 @@
 <img src="src/8.png"/>
 
 - Now you are all Done Turning off Windows Auto Update Permanently!
+
+
+windows 10 auto update turn off
+windows 11 auto update turn off
+windows update turn off permanently
+InferiorAK
+windows tricks
+auto update windows
+
